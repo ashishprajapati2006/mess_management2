@@ -1,0 +1,13 @@
+backend
+.git
+.gitignore
+README.md
+SYSTEM_GUIDE.md
+test_result.md
+tests
+node_modules
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
